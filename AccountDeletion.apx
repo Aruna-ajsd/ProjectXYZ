@@ -7,4 +7,6 @@ trigger AccountDeletion on Account (before insert) {
   }
 
 }
+//Trigger change 2nd time
+//trigger changed
 //Trigger Coding To Test 
